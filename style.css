@@ -1,0 +1,27 @@
+*{
+    margin: 0;padding: 0;
+}
+.container{
+    height: 80vh;
+    width: 25vw;
+    background-color: rgb(255, 253, 253);
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0%;
+    margin-left: 35%;
+    padding: 20px;
+}
+img{
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+    margin-left:60px ;
+}
+h2{
+    padding: 15px;
+    color: rgb(73, 72, 72);
+   margin-left:0px ;
+}
